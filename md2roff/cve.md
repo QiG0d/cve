@@ -3,5 +3,6 @@ Vulnerability Type: Heap overflow
   
   
 # Vulnerability description
-___
-The vulnerability exists in the file /md2roff.c , function _*stradd_.  
+
+The vulnerability exists in the file /md2roff.c , function _*stradd_. 
+
